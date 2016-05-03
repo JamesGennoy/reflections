@@ -20,3 +20,7 @@ Creating branches for working on new features or experiments is a good idea. Tha
 ## Visualizing with Diagrams
 
 It is much easy to understand branches and how they are connected by using diagrams.
+
+## Merging Two Branches
+
+The result of merging two branches together is the resulting branch has all of the commits in both branches. This is a good way to work on new features independently, until they are ready to be merged into the Master branch. 
