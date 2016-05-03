@@ -11,3 +11,12 @@ Staging area is a temporary holding area for files that you are working on. It g
 ## Commit Size
 
 You can review the staging area before you commit to ensure the commit you will make only has one logical change.
+
+
+## When to Use Branches
+
+Creating branches for working on new features or experiments is a good idea. That way the master only contains a working clean version of your repository at all times.
+
+## Visualizing with Diagrams
+
+It is much easy to understand branches and how they are connected by using diagrams.
