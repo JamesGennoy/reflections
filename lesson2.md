@@ -23,4 +23,8 @@ It is much easy to understand branches and how they are connected by using diagr
 
 ## Merging Two Branches
 
-The result of merging two branches together is the resulting branch has all of the commits in both branches. This is a good way to work on new features independently, until they are ready to be merged into the Master branch. 
+The result of merging two branches together is the resulting branch has all of the commits in both branches. This is a good way to work on new features independently, until they are ready to be merged into the Master branch.
+
+## Automatic vs. Manual Merging
+
+It is nice that sometimes Git can automatically merge conflicts. However, I think it is better that it falls back to having the developer, who really knows the code, manually merge conflicts that occur on the same lines.
